@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  grey: '#282828'\n};","map":{"version":3,"sources":["/mnt/c/Users/Hussein/Desktop/Programs/POOS/Large Project/AssetLabs/screens/components/Colors.js"],"names":["grey"],"mappings":"AAAA,eAAe;AACXA,EAAAA,IAAI,EAAE;AADK,CAAf","sourcesContent":["export default {\r\n    grey: '#282828',\r\n  };"]},"metadata":{},"sourceType":"module"}

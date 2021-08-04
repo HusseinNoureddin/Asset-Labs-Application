@@ -1,0 +1,1 @@
+Asset Labs is an application that allows the user to manage their assets in a simple way. The user can scan QR codes for items and add them without needing to manually type any item information. The user can also add manually, delete, edit, and search for items. 
